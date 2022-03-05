@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2022
 
-**[N-Shot Learning for Augmenting Task-Oriented Dialogue State Tracking](https://openreview.net/forum?id=NhSG6x_Z64U)** <br>
+**[N-Shot Learning for Augmenting Task-Oriented Dialogue State Tracking](https://openreview.net/forum?id=yD9xAnPpWUV)** <br>
 **Ibrahim Taha Aksu**, Zhengyuan Liu, Min-Yen Kan, Nancy F. Chen <br>
 In _Findings of the Association for Computational Linguistics: ACL 2022 (Long Paper)_. ACL Findings 2022. <br>
 
