@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2023
+
+**[Prompter | Zero-shot Dialogue State Tracking via Prompt Tuning](https://2023.aclweb.org/)** <br>
+**Ibrahim Taha Aksu**, Min-Yen Kan, Nancy F. Chen <br>
+In _The Association for Computational Linguistics: ACL 2023 (Long Paper)_. ACL 2023. <br>
 
 ## 2022
 
