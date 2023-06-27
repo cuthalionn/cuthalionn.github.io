@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2023
-**[Prompter | Zero-shot Dialogue State Tracking via Prompt Tuning](https://arxiv.org/abs/2306.04724)** <br>
+**[Prompter: Zero-shot Adaptive Prefixes for Dialogue State Tracking Domain Adaptation](https://arxiv.org/abs/2306.04724)** <br>
 **Ibrahim Taha Aksu**, Min-Yen Kan, Nancy F. Chen <br>
 In _The Association for Computational Linguistics: ACL 2023 (Long Paper)_. ACL 2023. <br>
 **[Video, Slides & Poster](https://drive.google.com/drive/folders/1BfAqGRWpVnNlwUnkdFcQvI1fUMIXrwIu?usp=sharing)**
