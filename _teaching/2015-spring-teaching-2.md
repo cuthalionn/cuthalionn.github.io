@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant | CS223-Digital Design Lab"
 collection: teaching
 type: "Undergraduate class"
 permalink: /teaching/2015-spring-teaching-2
