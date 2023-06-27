@@ -1,9 +1,9 @@
 ---
-title: "Teaching Assistant | Summer AI Camp"
+title: "Teaching Assistant Summer AI Camp"
 collection: teaching
-type: "Summer camp"
+type: "Summer AI camp"
 permalink: /teaching/2017-summer-AI
-venue: "Bilkent"
+venue: "Bilkent | CS"
 date: 2017-08-14
 location: "Ankara / Turkey"
 ---

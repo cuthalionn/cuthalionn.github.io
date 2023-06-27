@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant | CS223-Digital Design Lab"
+title: "Teaching Assistant CS223-Digital Design Lab"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2016-fall-teaching-1

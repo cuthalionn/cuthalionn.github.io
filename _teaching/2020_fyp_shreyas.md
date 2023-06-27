@@ -1,15 +1,15 @@
 ---
-title: "Undergraduate Final Year Project Advisor | Shreyas Kuthanoor Prakash"
+title: "Undergraduate Final Year Project Advisor - Shreyas Kuthanoor Prakash"
 collection: teaching
-type: "undergraduate advising"
+type: "Undergraduate Advising"
 permalink: /teaching/2020_fyp_shreyas
-venue: "NUS"
+venue: "NUS | SOC"
 date: 2020-08-14
 location: "Singapore"
 ---
 
-##Word Sense Disambiguation: A Co-operative Game Theoretic Approach
-
+Word Sense Disambiguation: A Co-operative Game Theoretic Approach
+=====
 Word Sense Disambiguation (WSD) is computationally identifying the real sense of the words in a given sentence. Applications such as Machine Translation, Speech Processing, Information Retrieval, Text Mining, and Content Analysis employ WSD in resolving the ambiguity of words in a given sentence.
 
 Supervised learning methods have been successfully applied to the sense classification problem. Today, methods that train on manually sense-tagged corpora have become the mainstream approach to WSD. A significant problem with supervised approaches is the need for a sizable sense-tagged training set. Despite the availability of large corpora, manually sense-tagging of a corpus is very difficult, and very few sense-tagged data are available now. Additionally, a supervised system has problems adapting to different contexts, because it depends on prior knowledge which makes the algorithm rigid, therefore cannot efficiently adapt to domain-specific areas.
