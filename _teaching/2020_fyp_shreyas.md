@@ -8,6 +8,10 @@ date: 2020-08-14
 location: "Singapore"
 ---
 
+
+Word Sense Disambiguation: A Co-operative Game Theoretic Approach
+
+
 Word Sense Disambiguation: A Co-operative Game Theoretic Approach
 =====
 Word Sense Disambiguation (WSD) is computationally identifying the real sense of the words in a given sentence. Applications such as Machine Translation, Speech Processing, Information Retrieval, Text Mining, and Content Analysis employ WSD in resolving the ambiguity of words in a given sentence.
