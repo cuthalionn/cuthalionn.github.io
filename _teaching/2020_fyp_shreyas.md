@@ -9,7 +9,7 @@ location: "Singapore"
 ---
 
 
-Word Sense Disambiguation: A Co-operative Game Theoretic Approach
+[TL;DR] We borrow the idea of co-operation from game theory to model each word as an agent and utilize their co-operation to do word sense disambiguation in a sentence.
 
 
 Word Sense Disambiguation: A Co-operative Game Theoretic Approach
