@@ -15,10 +15,10 @@ I am interested in working with text data, especially the conversational ones. S
 Apart from my academic studies, I like to read Japanese literature and sci-fi / fantasy novels. I also like to play board games (Battle Line, Catan, The Resistance are among my favorites).   
 
 ## News
-[05/2023] [Prompter](https://arxiv.org/abs/2306.04724) accepted at [ACL 2023](https://2023.aclweb.org/)!
+**[05/2023]** [Prompter](https://arxiv.org/abs/2306.04724) accepted at [ACL 2023](https://2023.aclweb.org/)!
 
-[01/2023] I am joining Amazon (CA-US) for an applied science internship to do LLM research.
+**[01/2023]** I am joining Amazon (CA-US) for an applied science internship to do LLM research.
 
-[02/2022] One [paper](https://aclanthology.org/2022.findings-acl.131/) accepted at [ACL 2022](https://www.2022.aclweb.org/) Findings!
+**[02/2022]** One [paper](https://aclanthology.org/2022.findings-acl.131/) accepted at [ACL 2022](https://www.2022.aclweb.org/) Findings!
 
-[05/2021]  [Velocidapter](https://aclanthology.org/2021.sigdial-1.14/) accepted at [SIGDIAL 2021](https://www.sigdial.org/files/workshops/conference22/)!
+**[05/2021]**  [Velocidapter](https://aclanthology.org/2021.sigdial-1.14/) accepted at [SIGDIAL 2021](https://www.sigdial.org/files/workshops/conference22/)!
