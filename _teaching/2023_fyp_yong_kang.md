@@ -9,7 +9,7 @@ location: "Singapore"
 ---
 
 
-[TL;DR] We apply well studied concepts of Parameter-efficient Learning from NLP in the vision modality to improve existing domain adaptation techniques.
+[TL;DR] We apply well studied concepts of Parameter-efficient Learning from NLP to the the vision modality to improve existing domain adaptation techniques.
 
 
 Exploring Pixel-level Prompting for Improved Domain Adaptation in Visual Tasks
