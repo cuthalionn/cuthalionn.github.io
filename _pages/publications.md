@@ -12,7 +12,7 @@ In _The Association for Computational Linguistics: ACL 2023 (Long Paper)_. ACL 2
 
 ## 2022
 
-**[N-Shot Learning for Augmenting Task-Oriented Dialogue State Tracking](https://openreview.net/forum?id=yD9xAnPpWUV)** <br>
+**[N-Shot Learning for Augmenting Task-Oriented Dialogue State Tracking](https://aclanthology.org/2022.findings-acl.131/))** <br>
 **Ibrahim Taha Aksu**, Zhengyuan Liu, Min-Yen Kan, Nancy F. Chen <br>
 In _Findings of the Association for Computational Linguistics: ACL 2022 (Long Paper)_. ACL Findings 2022. <br>
 **[Video, Slides & Poster](https://drive.google.com/drive/folders/1r5W7K9hJpgditXYwQ13LC3RT6HqAi_A1?usp=sharing)**
