@@ -22,5 +22,3 @@ Apart from my academic studies, I like to read sci-fi/fantasy novels and birdwat
 **[01/2023]** I am joining Amazon (CA-US) for an applied science internship to do LLM research.
 
 **[02/2022]** One [paper](https://aclanthology.org/2022.findings-acl.131/) accepted at [ACL 2022](https://www.2022.aclweb.org/) Findings.
-
-**[05/2021]**  [Velocidapter](https://aclanthology.org/2021.sigdial-1.14/) accepted at [SIGDIAL 2021](https://www.sigdial.org/files/workshops/conference22/).
