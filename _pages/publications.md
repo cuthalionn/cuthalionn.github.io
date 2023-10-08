@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2023
+**[CESAR: Automatic Induction of Compositional Instructions for Multi-turn Dialogs](https://2023.emnlp.org/)** <br>
+**Ibrahim Taha Aksu**, Devamanyu Hazarika, Shikib Mehri, Seokhwan Kim, Dilek Hakkani-Tur, Yang Liu, Mahdi Namazifar <br>
+In _The 2023 Conference on Empirical Methods in Natural Language Processing: EMNLP 2023 (Long Paper)_. EMNLP 2023. <br>
+
 **[Prompter: Zero-shot Adaptive Prefixes for Dialogue State Tracking Domain Adaptation](https://aclanthology.org/2023.acl-long.252/)** <br>
 **Ibrahim Taha Aksu**, Min-Yen Kan, Nancy F. Chen <br>
 In _The Association for Computational Linguistics: ACL 2023 (Long Paper)_. ACL 2023. <br>
