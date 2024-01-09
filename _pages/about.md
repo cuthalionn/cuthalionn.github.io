@@ -15,6 +15,8 @@ I am interested in working with text data, especially the conversational ones. S
 Apart from my academic studies, I like to read sci-fi/fantasy novels and birdwatching. I also like to play board games (Battle Line, Catan, The Resistance are among my favorites).   
 
 ## News
+**[01/2024]** Received the NUS Dean's Graduate Research Excellence Award.
+
 **[10/2023]** One paper accepted at [EMNLP 2023](https://2023.emnlp.org/).
 
 **[08/2023]** Received the NUS Computing Research Achievement Award.
