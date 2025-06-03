@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## 2025
 **[Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models](https://arxiv.org/abs/2503.11411)** <br>
-Xu Liu, **Taha Aksu**, Juncheng Liu, Qingsong Wen, Yuxuan Liang, Caiming Xiong, Silvio Savarese, Doyen Sahoo, Junnan Li, Chenghao Liu
+Xu Liu, **Taha Aksu**, Juncheng Liu, Qingsong Wen, Yuxuan Liang, Caiming Xiong, Silvio Savarese, Doyen Sahoo, Junnan Li, Chenghao Liu <br>
 **[Preprint](https://arxiv.org/abs/2503.11411)**
 
 ## 2024
