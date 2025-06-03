@@ -4,8 +4,26 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2025
+**[Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models](https://arxiv.org/abs/2503.11411)** <br>
+Xu Liu, **Taha Aksu**, Juncheng Liu, Qingsong Wen, Yuxuan Liang, Caiming Xiong, Silvio Savarese, Doyen Sahoo, Junnan Li, Chenghao Liu
+**[Preprint](https://arxiv.org/abs/2503.11411)**
+
+## 2024
+**[GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation](https://arxiv.org/abs/2410.10393)** <br>
+**Taha Aksu**, Gerald Woo, Juncheng Liu, Chenghao Liu, Silvio Savarese, Caiming Xiong, Doyen Sahoo <br>
+**[Preprint](https://arxiv.org/abs/2410.10393)**, **[LeaderBoard](https://huggingface.co/spaces/Salesforce/GIFT-Eval)** <br>
+
+**[Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts](https://arxiv.org/abs/2410.10469)** <br>
+Xu Liu,Juncheng Liu, Gerald Woo, **Taha Aksu**, Yuxuan Liang, Roger Zimmermann, Chenghao Liu, Silvio Savarese, Caiming Xiong, Doyen Sahoo <br>
+In _Forty-Second International Conference on Machine Learning. ICML 2025<br>
+
+**[XForecast: Evaluating Natural Language Explanations for Time Series Forecasting](https://arxiv.org/abs/2410.14180)** <br>
+**Taha Aksu**, Chenghao Liu, Amrita Saha, Sarah Tan, Caiming Xiong, Doyen Sahoo <br>
+**[Preprint](https://arxiv.org/abs/2410.14180)**
+
 ## 2023
-**[CESAR: Automatic Induction of Compositional Instructions for Multi-turn Dialogs](https://2023.emnlp.org/)** <br>
+**[CESAR: Automatic Induction of Compositional Instructions for Multi-turn Dialogs](https://aclanthology.org/2023.emnlp-main.717/)** <br>
 **Ibrahim Taha Aksu**, Devamanyu Hazarika, Shikib Mehri, Seokhwan Kim, Dilek Hakkani-Tur, Yang Liu, Mahdi Namazifar <br>
 In _The 2023 Conference on Empirical Methods in Natural Language Processing: EMNLP 2023 (Long Paper)_. EMNLP 2023. <br>
 
