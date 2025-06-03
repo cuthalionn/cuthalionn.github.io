@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Taha Aksu"
   avatar           : "profile.png"
-  bio              : "PhD candidate at National University of Singapore - School of Computing"
+  bio              : "Research Scientist at Salesforce AI Research Singapore"
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=9-rgPvgAAAAJ&hl=en
-  email            : taksu@u.nus.edu
+  email            : iaksu@salesforce.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
